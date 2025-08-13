@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi there 👋, I'm Stefano Liberati!
+I'm Stefano Liberati!
 I'm a computer engineering graduate from Roma Tre University with a solid theoretical and practical foundation in programming, cybersecurity, and data analysis. My passion for technology is matched by my interest in geopolitics and international politics.
 
 🚀 Key Skills
