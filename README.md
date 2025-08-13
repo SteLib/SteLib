@@ -41,10 +41,14 @@ Web Security: Identified and mitigated web application vulnerabilities.
 Cryptography: Gained a solid foundation in secure communication principles.
 
 Tools & Methodologies: Pwnlib (Pwntools) for exploit development, Ghidra for reverse engineering, GDB for dynamic analysis, and Python for scripting.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
 🎓 Education
 Bachelor of Science in Computer Engineering | Expected 07/2025
 Università degli Studi Roma Tre - Rome
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
+
 📫 Let's Connect!
 LinkedIn:  www.linkedin.com/in/stefano-liberati-3729a0279
