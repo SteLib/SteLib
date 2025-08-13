@@ -1,4 +1,4 @@
-## Hi there 👋Certo, ecco la versione aggiornata del file README.md per il tuo profilo GitHub, con l'emoticon aggiunta.
+## Hi there 👋
 
 Hi there 👋, I'm Stefano Liberati!
 I'm a computer engineering graduate from Roma Tre University with a solid theoretical and practical foundation in programming, cybersecurity, and data analysis. My passion for technology is matched by my interest in geopolitics and international politics.
