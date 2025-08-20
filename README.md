@@ -17,7 +17,7 @@ Concepts: Object-Oriented Programming (OOP), Algorithms and Data Structures, Net
 💼 Professional Experience & Projects
 Thesis Internship | 03/2025 - 05/2025
 Babylon Cloud SpA - Rome, RM
-Developed and implemented [monitoring and alerting systems](https://github.com/SteLib/Monitoring-and-Alerting-System-for-Linux-Machines) using the following tools:
+Developed and implemented [monitoring and alerting systems for linux machine](https://github.com/SteLib/Monitoring-and-Alerting-System-for-Linux-Machines) using the following tools:
 
 Node Exporter: Used for exporting system-level metrics on Linux machines.
 
