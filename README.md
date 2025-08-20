@@ -6,7 +6,7 @@ I'm a computer engineering graduate from Roma Tre University with a solid theore
 🚀 Key Skills
 Here are some of the technologies and concepts I'm proficient in:
 
-Languages & Frameworks: Java, C, Python, Spring Boot, Spring MVC, HTML, CSS, SQL
+Languages & Frameworks: Java, C, Python, Spring Boot, Spring MVC, HTML, CSS, SQL, UML
 
 Operating Systems & Security: Linux, PWN, Ghidra, GDB, ROPGadget, Software & Web Security, Cryptography
 
